@@ -1,8 +1,5 @@
----
-description: >-
-  Notes to accompany ICS talk at [Hackfest](https://hackfest.ca/en/)
----
----
+Notes to accompany ICS talk at [Hackfest](https://hackfest.ca/en/)
+
 # Reading
 
 ## Background information
