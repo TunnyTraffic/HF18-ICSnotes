@@ -8,8 +8,8 @@ description: >-
 ## Background information
 
 * [SANS ICS Kill Chain](https://www.sans.org/reading-room/whitepapers/ICS/industrial-control-system-cyber-kill-chain-36297)
-* [DTSR Podcast Dragos - Sergio](http://podcast.wh1t3rabbit.net/dtsr-episode-254-lowdown-and-dirty-ics)
 * [Dragos Blog](https://dragos.com/blog.html)
+* [DTSR Podcast Dragos - Sergio](http://podcast.wh1t3rabbit.net/dtsr-episode-254-lowdown-and-dirty-ics)
 * [DTSR Podcast Dragos - Robert M Lee](http://podcast.wh1t3rabbit.net/dtsr-episode-269-industrial-internet-of-things-iiot)
 * [The Air Gap: SCADA's Enduring Security Myth](https://cacm.acm.org/magazines/2013/8/166309-the-air-gap/abstract) *paywalled*
 * [SANS Reading Room ISC/SCADA](https://www.sans.org/reading-room/whitepapers/ICS)
