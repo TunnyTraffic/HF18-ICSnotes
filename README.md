@@ -2,7 +2,7 @@
 description: >-
   Notes to accompany ICS talk at [Hackfest](https://hackfest.ca/en/)
 ---
-
+---
 # Reading
 
 ## Books
@@ -10,13 +10,16 @@ description: >-
 * [Industrial Network Security](https://www.sciencedirect.com/book/9780124201149/industrial-network-security)
 * [Hacking Exposted - Industrial Control Systems](https://www.oreilly.com/library/view/hacking-exposed-industrial/9781259589720/)
 * [Cybersecurity for Industrial Control Systems](https://www.crcpress.com/Cybersecurity-for-Industrial-Control-Systems-SCADA-DCS-PLC-HMI-and/Macaulay-Singer/p/book/9781439801963)
-
 * [Normal Accidents: Living with High Risk Technologies](https://press.princeton.edu/titles/6596.html) 
+
+---
 
 ## Journals/Papers
 
 * [IEEE Introduction to Industrial Control Networks](https://ieeexplore.ieee.org/document/6248648)
 * [Critical Infrastructure Protection](https://www.springer.com/gp/book/9783642289194)
+
+---
 
 # Training
 
@@ -39,9 +42,13 @@ description: >-
 
 * [ISA/IEC Cybersecurity](https://www.isa.org/training-and-certifications/isa-certification/isa99iec-62443/isa99iec-62443-cybersecurity-certificate-programs/)
 
+---
+
 # Standards, Legislation, etc.
 
 ## 
+
+---
 
 # Referenced sources
 
