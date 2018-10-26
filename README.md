@@ -10,7 +10,7 @@ Notes to accompany ICS talk at [Hackfest](https://hackfest.ca/en/)
 * [DTSR Podcast Dragos - Robert M Lee](http://podcast.wh1t3rabbit.net/dtsr-episode-269-industrial-internet-of-things-iiot)
 * [The Air Gap: SCADA's Enduring Security Myth](https://cacm.acm.org/magazines/2013/8/166309-the-air-gap/abstract) *paywalled*
 * [SANS Reading Room ISC/SCADA](https://www.sans.org/reading-room/whitepapers/ICS)
-* [Trend Micro - Who's Reall Attacking Your ICS Equipment](http://www.trendmicro.com.hk/cloud-content/apac/pdfs/security-intelligence/white-papers/wp-whos-really-attacking-your-ics-equipment.pdf)
+* [Trend Micro - Who's Really Attacking Your ICS Equipment](http://www.trendmicro.com.hk/cloud-content/apac/pdfs/security-intelligence/white-papers/wp-whos-really-attacking-your-ics-equipment.pdf)
 
 ## Books
 
