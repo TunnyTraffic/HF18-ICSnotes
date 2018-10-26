@@ -80,8 +80,8 @@ Notes to accompany ICS talk at [Hackfest](https://hackfest.ca/en/)
 
 ## Exploitation
 
-* [Exploiting Siemens Simatic S7 PLCs (Black Hat USA 2011)](https://www.youtube.com/watch?v=33kouEKm0zo) 
-* [Dillon Beresford's accompanying paper)[https://media.blackhat.com/bh-us-11/Beresford/BH_US11_Beresford_S7_PLCs_WP.pdf]
+* [Exploiting Siemens Simatic S7 PLCs (Black Hat USA 2011)](https://www.youtube.com/watch?v=33kouEKm0zo)
+* [Dillon Beresford's accompanying paper](https://media.blackhat.com/bh-us-11/Beresford/BH_US11_Beresford_S7_PLCs_WP.pdf)
 * [SCADA - Gateway to (s)hell](https://media.ccc.de/v/34c3-8956-scada_-_gateway_to_s_hell)
 * [Internet-facing PLCs - A New Back Orifice](https://www.blackhat.com/docs/us-15/materials/us-15-Klick-Internet-Facing-PLCs-A-New-Back-Orifice-wp.pdf)
 
