@@ -106,6 +106,7 @@ Notes to accompany ICS talk at [Hackfest](https://hackfest.ca/en/)
 
 ## Lab Hardware
 
+* Scope, probes, PSU, breadboard
 * RaspberryPi, Arduino, 
 * Ebay - buy some PLCs
 * [Siemens S7-1200 Starter Kit](https://w3.siemens.com/mcms/programmable-logic-controller/en/basic-controller/s7-1200/starterkits/Pages/default.aspx)
