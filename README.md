@@ -61,6 +61,10 @@ Notes to accompany ICS talk at [Hackfest](https://hackfest.ca/en/)
 
 * [ICS Security](https://st.nshc.net/training/icsscada/)
 
+### Azeria Labs 
+[Fox0x01's](https://twitter.com/Fox0x01) Azeria Labs for RE and ARM development
+* [Azeria Labs](https://azeria-labs.com/)
+
 ---
 
 # Tools and guides
@@ -113,6 +117,7 @@ Notes to accompany ICS talk at [Hackfest](https://hackfest.ca/en/)
 * [Synopsis ICS Tools](https://www.synopsys.com/software-integrity/solutions/by-industry/industrial-control-systems.html)
 * [MWR ICS CTF Write-up](https://labs.mwrinfosecurity.com/blog/offensive-ics-exploitation-a-technical-description/)
 * [Domaintools DefCon 2018 ICS CTF Write-up](https://blog.domaintools.com/2018/08/def-con-ics-ctf/)
+* [Siemens S7 1200 manual - direct link](https://cache.industry.siemens.com/dl/files/465/36932465/att_106119/v1/s71200_system_manual_en-US_en-US.pdf)
 
 ---
 
